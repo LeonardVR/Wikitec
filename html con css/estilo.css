@@ -1,0 +1,17 @@
+Body
+{
+    font-family: 'Overpass', sans-serif;
+}
+
+h1
+{
+    text-align: center;
+    
+    //background-color: black;
+}
+
+nav
+{
+    text-align: center;
+    background-color: cyan;
+}
